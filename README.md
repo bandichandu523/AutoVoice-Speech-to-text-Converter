@@ -75,4 +75,4 @@ This project uses the built-in Web Speech API, which is completely free and runs
 
  Clone the repository
 
-bash: git clone https://github.com/<your-username>/AutoVoice-Speech-to-text-Converter.git
+bash: git clone https://github.com/bandichandu523/AutoVoice-Speech-to-text-Converter
